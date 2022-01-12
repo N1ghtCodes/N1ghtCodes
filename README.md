@@ -1,7 +1,7 @@
 # Hello 
 
 My name is George, i know javascript / node.js and html.\
-But i also know a bit of python and lua.
+But i also know a bit of python.
 
 <br><br>
 ## 🤖 My Discord bot
@@ -22,7 +22,6 @@ I am currently studying and learning these languages.
 - HTML
 - CSS
 - Python
-- Lua
 
 ## Other
 If anyone want to talk to me message me on [discord](https://discordapp.com/channels/@me) at:
