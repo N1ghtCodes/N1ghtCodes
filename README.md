@@ -24,7 +24,7 @@ I am currently studying and learning these languages.
 - Python
 
 ## Other
-If anyone want to talk to me message me on [discord](https://discordapp.com/channels/@me) at:
+If anyone want to talk to me join my [discord server](https://discord.gg/jfXhm2kguB) or message me on [discord](https://discordapp.com/channels/@me) at:
 ``N1ght#8654``
 <br><sub><sup>_Tripple click the discord tag to copy_</sub></sup>
 
