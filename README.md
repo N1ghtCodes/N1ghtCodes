@@ -8,6 +8,8 @@ But i also know a bit of python and lua.
 I am currently coding a high performance music bot.\
 You can join the bot server here: https://discord.gg/x8pNZCXpZ4
 
+#### If anyone wants to help me with the bot join the bot's server.
+
 
 <br><br>
 ## 🌱 Studies
