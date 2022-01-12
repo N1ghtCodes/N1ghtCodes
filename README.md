@@ -1,7 +1,7 @@
 # Hello 
 
 My name is George, i know javascript / node.js and html.\
-But i also know a bit of python.\
+But i also know a bit of python and lua.\
 
 <br><br>
 ## 🤖 My Discord bot
