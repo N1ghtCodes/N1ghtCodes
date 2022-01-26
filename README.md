@@ -1,15 +1,11 @@
 # Hello 
 
-My name is George, i know javascript / node.js and html.\
-But i also know a bit of python.
+My name is Scriptic, i study javascript,  / html and css.\
 
 <br><br>
 ## 🤖 My Discord bot
 I am currently coding a high performance music bot.\
 You can join the bot server here: https://discord.gg/x8pNZCXpZ4
-
-#### If anyone wants to help me with the bot join the bot's server.
-
 
 <br><br>
 ## 🌱 Studies
@@ -25,6 +21,6 @@ I am currently studying and learning these languages.
 
 ## Other
 If anyone want to talk to me join my [discord server](https://discord.gg/jfXhm2kguB) or message me on [discord](https://discordapp.com/channels/@me) at:
-``N1ght#8654``
+``Scriptic#8654``
 <br><sub><sup>_Tripple click the discord tag to copy_</sub></sup>
 
