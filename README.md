@@ -1,6 +1,6 @@
 # Hello 
 
-My name is Scriptic, i study javascript,  / html and css.\
+My name is Scriptic!
 
 <br><br>
 ## 🤖 My Discord bot
