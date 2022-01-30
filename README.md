@@ -13,12 +13,12 @@ I am currently studying and learning these languages.
 
 #### Languages that i am learning
 
-- [JavaScript][javascript]
-![HTML][html]
+[JavaScript][javascript]
+[HTML][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="39" height="39">
 -[Node.js][node]
 - CSS
-- [Python][python]
+[Python][python]
 
 ## Other
 If anyone want to talk to me join my [discord server](https://discord.gg/jfXhm2kguB) or message me on [discord](https://discordapp.com/channels/@me) at:
