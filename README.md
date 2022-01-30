@@ -9,9 +9,7 @@ You can join the bot server here: https://discord.gg/x8pNZCXpZ4
 
 <br><br>
 ## 🌱 Studies
-I am currently studying and learning these languages.
-
-#### Languages that i am learning
+# I am studying these languages
 
 ![JavaScript][javascript]
 ![HTML][html]
