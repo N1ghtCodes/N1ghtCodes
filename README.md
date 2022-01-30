@@ -17,7 +17,6 @@ I am currently studying and learning these languages.
 ![HTML][html]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="39" height="39">
 ![Node.js][node]
-- CSS
 ![Python][python]
 
 ## Other
